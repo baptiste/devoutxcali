@@ -1,0 +1,8 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^README\.Rmd$
+^.*\.svg$
+^working$
+^pkgdown$
+^doc$
+^Meta$
